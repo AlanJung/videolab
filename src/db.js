@@ -1,6 +1,6 @@
 const db = require('knex')({
     client: 'pg',
-    connection: 'postgresql://dev:dev@localhost/videolab',
+    connection: 'postgres://dev:9cNHZqMgWjnrzieyECxVoZHhzQohHuWM@dpg-clnrhrrj65ls738a2c5g-a.oregon-postgres.render.com/videolab?ssl=true',
 })
 
 
